@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">通讯录</string>
+    <string name="EditText">搜索姓名或电话号码</string>
+</resources>
